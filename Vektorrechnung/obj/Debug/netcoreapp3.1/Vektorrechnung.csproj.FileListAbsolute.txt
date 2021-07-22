@@ -1,0 +1,26 @@
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.exe
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.deps.json
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.runtimeconfig.json
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.runtimeconfig.dev.json
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.dll
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.pdb
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.csprojAssemblyReference.cache
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.AssemblyInfoInputs.cache
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.AssemblyInfo.cs
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.csproj.CoreCompileInputs.cache
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.dll
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.pdb
+D:\Schule\Drittes Jahr\pgr\Vektorrechnung\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.exe
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.deps.json
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.runtimeconfig.json
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.dll
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\bin\Debug\netcoreapp3.1\Vektorrechnung.pdb
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.dll
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.pdb
+C:\Users\Admin\Desktop\Vektor\Vektorrechnung\obj\Debug\netcoreapp3.1\Vektorrechnung.genruntimeconfig.cache
